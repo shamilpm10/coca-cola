@@ -1,0 +1,95 @@
+/* section one */
+.image1 {
+  background-image: url(cola1.webp);
+  background-size: cover;
+  height: 65vh;
+  background-position: center center;
+  opacity: 90%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.favicon{
+  border-radius: 100%;
+}
+
+.image2 {
+  background-image: url(cola2.webp);
+  background-size: cover;
+  height: 65vh;
+  background-position: center center;
+  opacity: 90%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* section two */
+.image3 {
+  background-image: url(colac4.webp);
+  background-size: cover;
+  height: 65vh;
+  background-position: center center;
+  opacity: 90%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image4 {
+  background-image: url(cola3.webp);
+  background-size: cover;
+  height: 65vh;
+  background-position: center center;
+  opacity: 90%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* section three */
+.image5 {
+  background-image: url(colac6.webp);
+  background-size: cover;
+  height: 65vh;
+  background-position: center center;
+  opacity: 90%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image6 {
+  background-image: url(cola5.webp);
+  background-size: cover;
+  height: 65vh;
+  background-position: center center;
+  opacity: 90%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* footer */
+footer {
+  border-top: 1px solid white;
+  background-color: #4a4a4a;
+}
+
+.logo {
+  padding-top: 7vh;
+}
+
+.links {
+  display: flex;
+  justify-content: end;
+  align-items: flex-end;
+}
+
